@@ -10,3 +10,6 @@
 # 위장
 	Points	: <map> STL Library
 		: (a+1)(b+1)(c+1)(d+1)---(n+1)-1
+
+# 베스트앨범
+	Points	: <map> STL Library
